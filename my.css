@@ -1,0 +1,48 @@
+* {
+    font-family: 'Jua', sans-serif;
+}
+
+.mytitle {
+    color: white;
+    width: 350px;
+    height: 400px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTb-OmN0WzmXeXG22F_xe_QoTlXqHV_9G8ogy0JpWOFYAjfBiRDXuADRNaRYzYr9sOHWC2AA00&usqp=CAc');
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.wrap {
+    width: 300px;
+    margin: auto;
+}
+
+
+.parent{
+    width: 90%;
+    margin: 10px auto;
+}
+
+.first {
+    border: 1px solid red;
+    float: left;
+    width:30%;
+    box-sizing: border-box;
+}
+
+.second{
+    border: 1px solid green;
+    float: left;
+    margin-left: 5%;
+    width:30%;
+    box-sizing: border-box;
+}
+
+.third{
+    border: 1px solid blue;
+    float: right;
+    width:30%;
+    box-sizing: border-box;
+}
